@@ -1,0 +1,28 @@
+{
+  "name": "spotify-clone-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaykishanChaudhary/Spotify-Clone-Front.git"
+  },
+  "author": "Jaykishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaykishanChaudhary/Spotify-Clone-Front/issues"
+  },
+  "homepage": "https://github.com/JaykishanChaudhary/Spotify-Clone-Front#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1"
+  }
+}
